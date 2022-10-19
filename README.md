@@ -1,6 +1,6 @@
 # Array
 ### Objetivo: desenvolver algoritmos utilizando Arrays para atingir os requisitos abaixo.
-[Clique aqui para acessar](https://lucasfranca0.github.io/Arrays-js/)
+[Clique aqui para acessar](https://lucasfranca0.github.io/Array-js/)
 ## Requisitos:
 
 1. Faça um algoritmo para ler 20 números e armazenar em um array. Após a leitura total dos 20 números, o algoritmo deve escrever esse array.
