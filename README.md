@@ -1,4 +1,8 @@
 # Array
+### Objetivo: desenvolver algoritmos utilizando Arrays para atingir os requisitos abaixo e fixar o aprendizado.
+[Clique aqui para acessar](https://lucasfranca0.github.io/Arrays-js/)
+## Requisitos:
+
 1. Faça um algoritmo para ler 20 números e armazenar em um array. Após a leitura total dos 20 números, o algoritmo deve escrever esse array.
 2. Faça um algoritmo para ler 12 números informados pelo usuário e armazenar em dois arrays: um com os números acima de 50. Outro com números abaixo de 50.
 3. Drofo e Topper estão em uma aventura mágica. Faça um programa que contenha um inventário para cada um dos dois aventureiros - esse inventário será um array.
