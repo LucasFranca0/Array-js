@@ -1,5 +1,5 @@
 # Array
-### Objetivo: desenvolver algoritmos utilizando Arrays para atingir os requisitos abaixo e fixar o aprendizado.
+### Objetivo: desenvolver algoritmos utilizando Arrays para atingir os requisitos abaixo.
 [Clique aqui para acessar](https://lucasfranca0.github.io/Arrays-js/)
 ## Requisitos:
 
